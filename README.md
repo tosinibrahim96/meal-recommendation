@@ -5,12 +5,7 @@
 
 **Features the API should have:**
 
-1. The 
-
-
-
-
-should operate on three Allergies:
+1. The system operates on three Allergies:
     1. Nut Allergy
     2. ShellFish Allergy
     3. SeaFood Allergy
