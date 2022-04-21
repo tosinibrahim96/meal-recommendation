@@ -3,7 +3,7 @@
 > Laravel application for meal recommendation based on user and meal allergies. The app features a REST API with authentication.
 
 
-**Features the API should have:**
+**Features of the API:**
 
 1. The system operates on three Allergies:
     1. Nut Allergy
