@@ -61,4 +61,4 @@ Documentation can be found [here](https://documenter.getpostman.com/view/1697730
 ### License
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2021 © <a href="https://tosinibrahim96.github.io/Resume/" target="_blank">Ibrahim Alausa</a>.
+- Copyright 2022 © <a href="https://tosinibrahim96.github.io/Resume/" target="_blank">Ibrahim Alausa</a>.
