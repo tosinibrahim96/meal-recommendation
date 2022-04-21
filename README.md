@@ -24,7 +24,7 @@ should operate on three Allergies:
 
 ### Clone
 
-- Clone the repository using `git clone https://github.com/tosinibrahim96/Meal-recommendation.git`
+- Clone the repository using `git clone https://github.com/tosinibrahim96/meal-recommendation.git`
 - Create a `.env` file in the root folder and copy everything from `.env-sample` into it
 - Fill the `.env` values with your Database details as required
 
