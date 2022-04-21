@@ -5,7 +5,12 @@
 
 **Features the API should have:**
 
-1. The system should operate on three Allergies:
+1. The 
+
+
+
+
+should operate on three Allergies:
     1. Nut Allergy
     2. ShellFish Allergy
     3. SeaFood Allergy
@@ -19,7 +24,7 @@
 
 ### Clone
 
-- Clone the repository using `git clone https://github.com/tosinibrahim96/Meal-recommendation-system.git`
+- Clone the repository using `git clone https://github.com/tosinibrahim96/Meal-recommendation.git`
 - Create a `.env` file in the root folder and copy everything from `.env-sample` into it
 - Fill the `.env` values with your Database details as required
 
